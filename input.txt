@@ -1,0 +1,3 @@
+print("please enter a number:")
+num = input()
+newnum = float(num)

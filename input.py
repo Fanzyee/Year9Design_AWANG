@@ -1,0 +1,6 @@
+print("please enter a number:")
+num = input()
+newnum = input()
+x = float(num)
+y = float(newnum)
+print(num * newnum)
